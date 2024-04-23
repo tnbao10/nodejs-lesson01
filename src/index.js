@@ -7,6 +7,7 @@ function main(){
     console.log("a + b = ",sum2Num(1,2));
     printConsole();
     console.log("a - b = ",sub2Num(1,2));
+    console.log("123");
 }
 
 main();
