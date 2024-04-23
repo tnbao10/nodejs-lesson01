@@ -8,6 +8,7 @@ function main(){
     printConsole();
     console.log("a - b = ",sub2Num(1,2));
     console.log("123");
+    console.log("Bu nginh");
 }
 
 main();
